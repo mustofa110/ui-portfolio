@@ -1,7 +1,7 @@
 Eksplorasi Antarmuka & Visual (Figma-Based)
 
 File ini merangkum proses saya dalam mentransformasikan ide menjadi prototipe antarmuka 
-yang presisi menggunakan Figma dan menciptakan desain yang tidak hanya estetis.
+yang presisi menggunakan Figma dan menciptakan desain yang tidak hanya estetis, tapi juga fungsional.
 
 High-Fidelity UI Design:
 Setiap komponen dirancang dengan ketelitian tinggi di Figma, 
